@@ -1,0 +1,12 @@
+ name 			= "No GPS Minimap";                     // Name of your mod
+ author 		= "snakebyte" // Affects Arma 3 Launcher, when the mod are loaded as local
+ logo 			= "logo_ca.paa";                                // Logo displayed in the main menu
+ logoOver 		= "logo_ca.paa";                                // When the mouse is over, in the main menu
+ tooltip 		= "No GPS Minimap";
+ actionName 	= "Github";                                // Button-text
+ action 		= "https://github.com/snakebyte85/NoGpsMinimap"        // Website URL, that can be accessed from the expansions menu
+ overview 		= "Hide GPS Minimap"; // Supports structured text
+ overviewPicture = "logo_ca.paa";
+ hideName 		= 0;                                        // Hide the extension name
+ hidePicture	= 0;	                                    // Hide the extension menu
+ dlcColor[] 	= {0.23,0.39,0.30,1};                       // Color used for DLC stripes and backgrounds (RGBA)
